@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Приветствую! Меня зовут <a href="https://t.me/Kolesnikov_R0man" target="_blank">Роман</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+🌱 I’m currently learning ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <!--
 **Epicpt/Epicpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
