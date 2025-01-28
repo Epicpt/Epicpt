@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ---
-##### Увлечен веб-разработкой и стремлюсь профессионально развиваться в этой сфере. 
+### Увлечен веб-разработкой и стремлюсь профессионально развиваться в этой сфере. 
 ---
-##### На данный момент изучаю: 
+### На данный момент изучаю: 
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
@@ -13,7 +13,7 @@
 </div>
 
 ---
-##### Несколько моих проектов:
+### Несколько моих проектов:
 * [Сайт-портфолио для дизайнера интерьеров](https://rodesign.ru/)
 * [TODO лист на Go](https://github.com/Epicpt/simple_todo)
 * [Граббер артов с сайта Starwars](https://github.com/Epicpt/image-grabber)
