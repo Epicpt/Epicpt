@@ -17,5 +17,6 @@
 * [Сайт-портфолио для дизайнера интерьеров](https://rodesign.ru/)
 * [TODO лист на Go](https://github.com/Epicpt/simple_todo)
 * [Граббер артов с сайта Starwars](https://github.com/Epicpt/image-grabber)
+* [REST CRUD c кешированием данных](https://github.com/Epicpt/rest-crud)
 * В процессе 
 <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="200" height="200" />
