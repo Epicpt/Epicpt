@@ -1,7 +1,7 @@
 <h1 align="center">Приветствую! Меня зовут <a href="https://t.me/Kolesnikov_R0man" target="_blank">Роман</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
----
+----
 ### Мой стек: 
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
